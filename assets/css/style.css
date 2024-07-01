@@ -1,0 +1,5 @@
+.navbar-brand{
+    color: transparent;
+    background: linear-gradient(red,blue);
+    background-clip: text;
+}
