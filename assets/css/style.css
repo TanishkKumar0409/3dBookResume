@@ -18,4 +18,7 @@ button{
 .introduction .row .col-md-6 h2{
     font-size: 42px;
     font-weight: 900;
+} 
+.navigation{
+    box-shadow: 0 0 3px gray;
 }
