@@ -10,8 +10,16 @@ body {
   min-height: 100vh;
   background: #1f293a;
 }
-.login-box {
+.container{
   position: relative;
+  width: 256px;
+  height: 256px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-box {
+  position: absolute;
   width: 400px;
   /* background: rebeccapurple; */
 }
